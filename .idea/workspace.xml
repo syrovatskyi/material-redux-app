@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a26851-c442-4a07-a649-a30b2095b59e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Employees/Employees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Jobs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69a26851-c442-4a07-a649-a30b2095b59e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608668405118</updated>
-      <workItem from="1608668406404" duration="1353000" />
+      <workItem from="1608668406404" duration="1596000" />
     </task>
+    <task id="LOCAL-00001" summary="Employees and Jobs are added">
+      <created>1608669991686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608669991686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Employees and Jobs are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Employees and Jobs are added" />
   </component>
 </project>
