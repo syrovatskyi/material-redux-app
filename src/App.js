@@ -1,10 +1,13 @@
 import React from "react";
+import Jobs from "./components/Jobs";
+import Employees from "./components/Employees";
 
 
 function App() {
   return (
     <div>
-      hello React
+      <Jobs />
+      <Employees/>
     </div>
   );
 }
